@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7d899550.css",
+    "main.js": "/static/js/main.d2957a63.js",
+    "static/media/video.mp4": "/static/media/video.6eae90c18b005ec1f39d.mp4",
+    "static/media/header_background.png": "/static/media/header_background.a4b0cdcbd3bff09e6979.png",
+    "static/media/work_img_3.png": "/static/media/work_img_3.5032d46484f4ff4fe7ee.png",
+    "static/media/work_img_4.png": "/static/media/work_img_4.d4ad18e53519546e36f8.png",
+    "static/media/work_img_1.png": "/static/media/work_img_1.c96c092d607dc68bb798.png",
+    "static/media/work_img_2.png": "/static/media/work_img_2.189a5f3145c3ba268379.png",
+    "static/media/work_img_6.png": "/static/media/work_img_6.da33deaccba2ca01cf6e.png",
+    "static/media/work_img_5.png": "/static/media/work_img_5.da710bf01b834ee2eb4f.png",
+    "static/media/testimonials_background.jpeg": "/static/media/testimonials_background.245bbe6f1756009f58e8.jpeg",
+    "static/media/subscribe_background.jpeg": "/static/media/subscribe_background.9055a9d94386e2c448c7.jpeg",
+    "static/media/About_Alex.jpg": "/static/media/About_Alex.b9939cc803d239fd8548.jpg",
+    "static/media/logo_img_1.png": "/static/media/logo_img_1.56e6302690f664182a9d.png",
+    "static/media/logo_img_6.png": "/static/media/logo_img_6.9cb6e0ebf3aadac556f6.png",
+    "static/media/services_img_6.svg": "/static/media/services_img_6.6e42843de4b856d698cda12fc549dc8d.svg",
+    "static/media/services_img_3.svg": "/static/media/services_img_3.387471ba5d63250a65204770f1628c6d.svg",
+    "static/media/services_img_1.svg": "/static/media/services_img_1.8dbb30cc8ad8a5cf12d183466a08088b.svg",
+    "static/media/services_img_5.svg": "/static/media/services_img_5.9c6e262d0d477c6ab3e6751c89cb89bf.svg",
+    "static/media/services_img_2.svg": "/static/media/services_img_2.6085851215ce21e8e1af1cd7532f62b3.svg",
+    "static/media/services_img_4.svg": "/static/media/services_img_4.c4c4a3c1d29dc9b62ae991c422b53011.svg",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.7d899550.css.map": "/static/css/main.7d899550.css.map",
+    "main.d2957a63.js.map": "/static/js/main.d2957a63.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d899550.css",
+    "static/js/main.d2957a63.js"
+  ]
+}
